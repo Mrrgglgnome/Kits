@@ -4,5 +4,10 @@
 #pragma once
 
 #include <iostream>
+#include <map>
+#include <vector>
+#include <fstream>
+#include <sstream>
+#include <format>
 
 // TODO: установите здесь ссылки на дополнительные заголовки, требующиеся для программы.
